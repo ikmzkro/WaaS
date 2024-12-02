@@ -28,6 +28,7 @@
 		"@types/chai": "4.3.16",
 		"@types/mocha": "10.0.6",
 		"chai": "4.4.1",
+		"dotenv": "^16.4.5",
 		"depcheck": "^1.4.7",
 		"ethers": "6.13.1",
 		"hardhat": "2.22.5",
