@@ -7,6 +7,7 @@ Wallet as a Service
 
 ## SeploiaToken
 - `ethers.js`でSeploiaTokenを送金する
+- https://recruit.gmo.jp/engineer/jisedai/blog/eip-1559-research/
 
 ## TestERC20Token
 - `TestERC20.sol`でテストネット用のERC20トークン（TestERC20Token）を作成する
